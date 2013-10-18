@@ -1,6 +1,0 @@
-c:\users\emilio\documents\visual studio 2013\Projects\ChainOfResponsability\ChainOfResponsability\bin\Debug\ChainOfResponsability.exe.config
-c:\users\emilio\documents\visual studio 2013\Projects\ChainOfResponsability\ChainOfResponsability\bin\Debug\ChainOfResponsability.exe
-c:\users\emilio\documents\visual studio 2013\Projects\ChainOfResponsability\ChainOfResponsability\bin\Debug\ChainOfResponsability.pdb
-c:\users\emilio\documents\visual studio 2013\Projects\ChainOfResponsability\ChainOfResponsability\obj\Debug\ChainOfResponsability.csprojResolveAssemblyReference.cache
-c:\users\emilio\documents\visual studio 2013\Projects\ChainOfResponsability\ChainOfResponsability\obj\Debug\ChainOfResponsability.exe
-c:\users\emilio\documents\visual studio 2013\Projects\ChainOfResponsability\ChainOfResponsability\obj\Debug\ChainOfResponsability.pdb
